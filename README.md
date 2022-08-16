@@ -1,27 +1,47 @@
-# AppTodo
+# To-Do List
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.1.
+<!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
-## Development server
+![GitHub repo size](https://img.shields.io/github/repo-size/mateuussilvapb/To-Do-List?style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/mateuussilvapb/To-Do-List?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/mateuussilvapb/To-Do-List?style=plastic)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+> Projeto desenvolvido durante o curso 'Angular 2 (v13+) Typescript do Básico ao Avançado' disponível na Udemy.
+> A aplicação foi desenvolvida com foco principal no desenvolvimento do front-end.
+> A aplicação possui uma lista de tarefas. Cada tarefa possui a função de 'checked' (finalizada), alteração e exclusão.
+> Além disso, a aplicação também armazena os dados da lista de tarefas no localStorage do navegador e, por ser uma aplicação simples, não há a necessidade do desenvolvimento de um backend.
 
-## Code scaffolding
+## 💻 Pré-requisitos
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Antes de começar, verifique se você atendeu aos seguintes requisitos:
+<!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
+* Você instalou o `NodeJs` [NodeJs](https://nodejs.org/en/). 
+* Você instalou o `Anular CLI` [Angular CLI](https://angular.io/guide/setup-local).
+* Você instalou o `Json-Server` [Json-Server](https://github.com/typicode/json-server).
+* Você instalou o `Bootstrap` [Bootstrap](https://getbootstrap.com/).
 
-## Build
+## ☕ Usando a aplicação
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Para usar a aplicação, siga estas etapas:
 
-## Running unit tests
+* Finalize a instalação dos itens citados anteriormente.
+* Abra o terminal
+* Execute o comando `ng serve -o` na raiz do projeto
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## 📫 Contribuindo para a aplicação
+<!---Se o seu README for longo ou se você tiver algum processo ou etapas específicas que deseja que os contribuidores sigam, considere a criação de um arquivo CONTRIBUTING.md separado--->
+Para contribuir com a aplicação, siga estas etapas:
 
-## Running end-to-end tests
+1. Bifurque este repositório.
+2. Crie um branch: `git checkout -b <nome_branch>`.
+3. Faça suas alterações e confirme-as: `git commit -m '<mensagem_commit>'`
+4. Envie para o branch original: `git push origin <nome_do_projeto> / <local>`
+5. Crie a solicitação de pull.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-## Further help
+## 😄 Seja um dos contribuidores<br>
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Quer fazer parte desse projeto? Siga os passos descritos anteriormente!
+
+[⬆ Voltar ao topo](#To-Do-List)<br>
