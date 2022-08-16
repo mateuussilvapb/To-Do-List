@@ -2,9 +2,9 @@
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
-![GitHub repo size](https://img.shields.io/github/repo-size/mateuussilvapb/bookstore-angular?style=plastic)
-![GitHub top language](https://img.shields.io/github/languages/top/mateuussilvapb/bookstore-angular?style=plastic)
-![GitHub last commit](https://img.shields.io/github/last-commit/mateuussilvapb/bookstore-angular?style=plastic)
+![GitHub repo size](https://img.shields.io/github/repo-size/mateuussilvapb/To-Do-List?style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/mateuussilvapb/To-Do-List?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/mateuussilvapb/To-Do-List?style=plastic)
 
 > Projeto desenvolvido durante o curso 'Angular 2 (v13+) Typescript do Básico ao Avançado' disponível na Udemy.
 > A aplicação foi desenvolvida com foco principal no desenvolvimento do front-end.
