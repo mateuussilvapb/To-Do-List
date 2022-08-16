@@ -6,8 +6,27 @@
     "app-todo": {
       "projectType": "application",
       "schematics": {
+        "@schematics/angular:application": {
+          "strict": true
+        },
         "@schematics/angular:component": {
-          "style": "scss"
+          "style": "scss",
+          "skipTests": true
+        },
+        "@schematics/angular:class": {
+          "skipTests": true
+        },
+        "@schematics/angular:directive": {
+          "skipTests": true
+        },
+        "@schematics/angular:guard": {
+          "skipTests": true
+        },
+        "@schematics/angular:pipe": {
+          "skipTests": true
+        },
+        "@schematics/angular:service": {
+          "skipTests": true
         }
       },
       "root": "",
@@ -103,5 +122,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "4a221839-7534-48d1-9b3b-fefd6d9b865c"
   }
 }
