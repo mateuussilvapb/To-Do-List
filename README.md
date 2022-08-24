@@ -17,16 +17,16 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 <!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
 * Você instalou o `NodeJs` [NodeJs](https://nodejs.org/en/). 
 * Você instalou o `Anular CLI` [Angular CLI](https://angular.io/guide/setup-local).
-* Você instalou o `Json-Server` [Json-Server](https://github.com/typicode/json-server).
-* Você instalou o `Bootstrap` [Bootstrap](https://getbootstrap.com/).
 
 ## ☕ Usando a aplicação
 
 Para usar a aplicação, siga estas etapas:
 
 * Finalize a instalação dos itens citados anteriormente.
-* Abra o terminal
-* Execute o comando `ng serve -o` na raiz do projeto
+* Abra o terminal.
+* Execute o comando `ng serve -o` na raiz do projeto.
+
+Caso deseje apenas acessar a aplicação, ela está disponível [nesse link](https://mateuussilvapb.github.io/To-Do-List/).
 
 ## 📫 Contribuindo para a aplicação
 <!---Se o seu README for longo ou se você tiver algum processo ou etapas específicas que deseja que os contribuidores sigam, considere a criação de um arquivo CONTRIBUTING.md separado--->
